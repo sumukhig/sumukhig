@@ -3,7 +3,6 @@
 - 👀 I’m interested in Data Science and Machine Learning applications - particularly in the Education sector
 - 🌱 Skills : Python, R, Spark, Business Intelligence and Analytics
 - 💞️ I’m looking to collaborate on Datathons and Learning Analytics Projects
-- 📫 Feel free to contact me at sumukhiganesan@gmail.com 
 
 <!---
 sumukhig/sumukhig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
