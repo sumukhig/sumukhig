@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumukhi Ganesan
 - 🏫 I am currently a Data Science graduate student at Northeastern University
 - 👀 I’m interested in Data Science and Machine Learning applications - particularly in the Education sector
-- 🌱 Skills : Python, R, Spark, BI tools
+- 🌱 Skills : Python, R, Spark, Business Intelligence and Analytics
 - 💞️ I’m looking to collaborate on Datathons and Learning Analytics Projects
 - 📫 Feel free to contact me at sumukhiganesan@gmail.com 
 
